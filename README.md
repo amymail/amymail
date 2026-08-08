@@ -7,7 +7,7 @@
   <img src="heart.svg" align="right" width="40" style="transform: rotate(18deg);" />
 </picture>
 
-# Hi, I'm Amelie! 👋💗
+# Hi, I'm Amelie! 👋
 🌿 I'm a systems & security enthusiast that's passionate and learning about low-level computing, Linux🐧, networks and more!
 
 ### Languages
