@@ -1,6 +1,6 @@
 <picture>
   <!-- Shows white heart in Dark Mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="heart-white.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="heart_white.svg">
   <!-- Shows black heart in Light Mode -->
   <source media="(prefers-color-scheme: light)" srcset="heart.svg">
   <!-- Fallback -->
