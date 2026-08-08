@@ -1,4 +1,11 @@
-<img src="heart.svg" align="right" width="40" style="transform: rotate(18deg);" />
+<picture>
+  <!-- Shows white heart in Dark Mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="heart-white.svg">
+  <!-- Shows black heart in Light Mode -->
+  <source media="(prefers-color-scheme: light)" srcset="heart.svg">
+  <!-- Fallback -->
+  <img src="heart.svg" align="right" width="40" style="transform: rotate(18deg);" />
+</picture>
 
 # Hi, I'm Amelie! 👋💗
 🌿I'm a systems & security enthusiast that's passionate and learning about low-level computing, Linux🐧, networks and more!
