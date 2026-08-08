@@ -11,9 +11,9 @@
 🌿 I'm a systems & security enthusiast that's passionate and learning about low-level computing, Linux🐧, networks and more!
 
 ### Languages
-🦀 | I'm currently learning Rust because of my love for optimized & secure computing;
-🐍 | I have some experience with Python;
-🖥️ | I'm also learning Bash scripts and how to use a Terminal (both on Linux & macOS)
+* 🦀 **Rust:** Currently learning because of my love for optimized & secure computing
+* 🐍 **Python:** I have some experience with Python
+* 🖥 **Bash:** Learning Bash scripts and how to use a Terminal (both on Linux & macOS)
 
 ### Current Focus
 - Learning Docker🐳 for security and compartmentalization;
