@@ -22,6 +22,7 @@
 
 ### 💬 Contact
 **ProtonMail:** `amyorchid@proton.me`
+
 **Github:** You're already here 🫪
 
 Thanks for reading my README 💕
