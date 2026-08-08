@@ -8,7 +8,7 @@
 </picture>
 
 # Hi, I'm Amelie! 👋💗
-🌿I'm a systems & security enthusiast that's passionate and learning about low-level computing, Linux🐧, networks and more!
+🌿 I'm a systems & security enthusiast that's passionate and learning about low-level computing, Linux🐧, networks and more!
 
 ### Languages
 🦀 | I'm currently learning Rust because of my love for optimized & secure computing;
@@ -25,4 +25,4 @@
 
 **Github:** You're already here 🫪
 
-Thanks for reading my README 💕
+### Thanks for reading! 💕
