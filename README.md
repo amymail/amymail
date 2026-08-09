@@ -1,3 +1,9 @@
+<div align="center">
+
+# Hi, I'm Amelie! 👋
+
+</div>
+
 <picture>
   <!-- Shows white heart in Dark Mode -->
   <source media="(prefers-color-scheme: dark)" srcset="heart_white.svg">
@@ -7,7 +13,6 @@
   <img src="heart.svg" align="right" width="40" style="transform: rotate(18deg);" />
 </picture>
 
-# Hi, I'm Amelie! 👋
 🌿 I'm a systems & security enthusiast that's passionate and learning about low-level computing, Linux🐧, networks and more!
 
 ### Languages
@@ -21,12 +26,15 @@
 - Experimenting with Linux🐧, experimenting with system configs, firewalls, sandboxing and securing a system for production.
 
 ### 💬 Contact
-**ProtonMail:** `amyorchid@proton.me`
-
+**ProtonMail:** `amyorchid@proton.me`  
 **GitHub:** You're already here 🫪
+
+<br>
+
+<div align="center">
 
 ### Thanks for reading! 💕
 
-<p align="center">
-  <i>PS: I write all code, issues, and so on by hand. I do not use AI for coding except for basic autocomplete or to check for obvious bugs ☺️</i>
-</p>
+<i>PS: I write all code, issues, and so on by hand. I do not use AI for coding except for basic autocomplete or to check for obvious bugs ☺️</i>
+
+</div>
