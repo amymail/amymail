@@ -26,3 +26,7 @@
 **GitHub:** You're already here 🫪
 
 ### Thanks for reading! 💕
+
+<p align="center">
+  <i>PS: I write all code, issues, and so on by hand. I do not use AI for coding except for basic autocomplete or to check for obvious bugs ☺️</i>
+</p>
